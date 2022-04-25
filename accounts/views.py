@@ -1,5 +1,6 @@
 from django.shortcuts import render
 from .forms import RegisterForm
+from django.views.generic import DetailView
 # Create your views here.
 
 def register(request):
@@ -15,3 +16,7 @@ def register(request):
 
     return render(request, 'registration/register.html', {'form':user_form})
 
+class AccountDetailView(DetailView):
+    model = UserWarning
+    context_object_name = 'target_user'
+    template_name = 'accounts/templates.detail.html'
