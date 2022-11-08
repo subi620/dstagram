@@ -1,5 +1,3 @@
-# dstagram
-
 
 # <div align="center">**dstagram_Project📸**
 
