@@ -7,7 +7,8 @@
 </div>
 
 ## 📌 Description
-<h5>dstagram은 인스타그램을 모델로한, 사진공유 웹페이지이다. 로그인을 통해 사진을 서로 공유하고, 사람들과 댓글을 달며 소통할 수 있다.   </h5>
+<h5>dstagram은 인스타그램을 모델로한, 사진공유 웹페이지입니다. </h5>
+<h5>로그인을 통해 사진을 서로 공유하고, 사람들과 댓글을 달며 소통할 수 있습니다.   </h5>
 
 <br/>
 
@@ -39,6 +40,7 @@
 
 |Page|Run|
 |:--:|:-:|
+|Home|<img width ="40%" height="20%" alt="Home" src="https://user-images.githubusercontent.com/92639359/200458354-825ca8f0-7964-41d3-a16c-8a55e2a17217.png"/>
 |Login|<img width="30%" height="10%" alt="Login" src="https://user-images.githubusercontent.com/92639359/199465293-5962fd1b-65fa-4710-a890-3351c00c2aaf.png">|
 |Register|<img width="30%" height="10%" alt="Register" src="https://user-images.githubusercontent.com/92639359/199466152-e3b4a9b4-35d6-4598-9226-afa6da0921d5.png">
 |Pic Register|<img width="30%" height="10%" alt="EditProfile" src="https://user-images.githubusercontent.com/92639359/199466659-4fdbf12f-a5e9-43ec-9b6a-e766c02e9040.png">
