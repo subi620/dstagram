@@ -50,6 +50,7 @@
 - python Django
 - html
 - css
+- heroku
 
 <br/>
 
