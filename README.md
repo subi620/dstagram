@@ -42,7 +42,7 @@
 |:--:|:-:|
 |Home|<img width ="40%" height="20%" alt="Home" src="https://user-images.githubusercontent.com/92639359/200458354-825ca8f0-7964-41d3-a16c-8a55e2a17217.png"/>
 |Login|<img width="40%" height="20%" alt="Login" src="https://user-images.githubusercontent.com/92639359/200458881-2d37e256-0085-443e-b150-0ef776b9a710.png">|
-|Register|<img width="30%" height="10%" alt="Register" src="https://user-images.githubusercontent.com/92639359/199466152-e3b4a9b4-35d6-4598-9226-afa6da0921d5.png">
+|Register|<img width="40%" height="20%" alt="Register" src="https://user-images.githubusercontent.com/92639359/200459030-68f9ccdf-27b7-4fa5-ad3a-6fcde2d5f869.png">
 |Pic Register|<img width="30%" height="10%" alt="EditProfile" src="https://user-images.githubusercontent.com/92639359/199466659-4fdbf12f-a5e9-43ec-9b6a-e766c02e9040.png">
 |Pic Edit|<img width="30%" height="10%" alt="home" src="https://user-images.githubusercontent.com/93530261/198549541-87385c32-2a04-4249-8a23-bbfa4f7dbd59.png">|
 |comment|<img width="30%" height="10%" alt="MyPage" src="https://user-images.githubusercontent.com/92639359/199469934-2389d90e-2d79-4427-a2cb-ab57c5274ad9.png">|
