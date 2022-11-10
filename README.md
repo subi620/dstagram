@@ -47,10 +47,10 @@
 <br/>
 
 ## 🔧 Tech Stack
-- python Django
+- Python Django
 - html
 - css
-- heroku
+- heroku 배포
 
 <br/>
 
